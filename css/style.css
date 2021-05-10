@@ -13,9 +13,9 @@
     --fw-reg: 300;
     --fw-bold: 900;
     
-    --clr-light: #fff;
-    --clr-dark: #303030;
-    --clr-accent: #16e0bd;
+    --clr-light: hsl(147, 64%, 61%);
+    --clr-dark: #05386b;
+    --clr-accent: #fff;
     
     --fs-h1: 3rem;
     --fs-h2: 2.25rem;
@@ -194,7 +194,7 @@ header {
 .hamburger,
 .hamburger::before,
 .hamburger::after {
-    background: var(--clr-accent);
+    background: var(--clr-dark);
     width: 2em;
     height: 3px;
     border-radius: 1em;
@@ -292,6 +292,7 @@ header {
 
 .service {
     max-width: 500px;
+    color: var(--clr-accent);
     margin: 0 auto;
 }
 
@@ -355,7 +356,7 @@ header {
 /* footer */
 
 .footer {
-    background: #111;
+    background: var(--clr-dark);
     color: var(--clr-accent);
     text-align: center;
     padding: 2.5em 0;
