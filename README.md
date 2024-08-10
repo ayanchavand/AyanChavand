@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayanchavand&theme=gruvbox" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayanchavand&theme=gruvbox" />
