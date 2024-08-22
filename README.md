@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 📈 Github Statistics
+# Welcome to My GitHub Profile! 👋
+
+I'm Ayan, a no lifer :>
+
+## 🛠️ Stuff that I am simping over as of now
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Godot](https://img.shields.io/badge/-Godot%20Engine-478CBF?style=flat&logo=godot-engine&logoColor=white)
 
 ### 🖥️ Repositories per Language
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayanchavand&theme=gruvbox" alt="repos-per-language" />
