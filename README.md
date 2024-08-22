@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📈 Github Statistics
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayanchavand&theme=gruvbox" />
+### 🖥️ Repositories per Language
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayanchavand&theme=gruvbox" alt="repos-per-language" />
 
-## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="28px" height="28px" alt="Stats"> Github Statistics
-
+### 🏆 Overall Profile Stats
 <div align="center">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayanchavand&theme=gruvbox" alt="stats" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayanchavand&theme=gruvbox" alt="profile-stats" />
 </div>
