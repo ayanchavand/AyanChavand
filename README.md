@@ -24,7 +24,4 @@ I'm Ayan, a no lifer :>
 
 ![ayanchavand's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanchavand&theme=react&show_icons=true&hide_border=true&layout=compact)
 
-### 🏆 Overall Profile Stats
-<div align="center">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayanchavand&theme=gruvbox" alt="profile-stats" />
-</div>
+![ayanchavand's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayanchavand&theme=react&hide_border=true)
