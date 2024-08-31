@@ -22,8 +22,7 @@ I'm Ayan, a no lifer :>
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Godot](https://img.shields.io/badge/-Godot%20Engine-478CBF?style=flat&logo=godot-engine&logoColor=white)
 
-### 🖥️ Repositories per Language
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayanchavand&theme=gruvbox" alt="repos-per-language" />
+![ayanchavand's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanchavand&theme=react&show_icons=true&hide_border=true&layout=compact)
 
 ### 🏆 Overall Profile Stats
 <div align="center">
