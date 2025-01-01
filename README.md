@@ -28,6 +28,7 @@ I'm Ayan, a no lifer :>
 ## 💬 Stuff that I planning to work on
 
 - A 2D game from scratch in C++
+- A cross platform digital welllbeing app
 - A clean Spotify client for linux terminal
 - A graph based docs maker webapp
 
