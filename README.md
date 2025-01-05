@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Welcome to My GitHub Profile! 👋
 
-I'm Ayan, a no lifer :>
+Software developer by day, gamer also by day. At night, I sleep.
 
 ## 🛠️ Stuff that I am simping over as of now
 
