@@ -26,7 +26,7 @@ Software developer by day, gamer also by day. At night, I sleep.
 ![Rust](https://shields.io/badge/-Rust-3776AB?style=flat&logo=rust)
 ![Godot](https://img.shields.io/badge/-Godot%20Engine-478CBF?style=flat&logo=godot-engine&logoColor=white)
 
-## 💬 Stuff that I planning to work on
+## 💬 Stuff that I plan to work on
 
 - A 2D game from scratch in C++
 - A cross platform digital welllbeing app
