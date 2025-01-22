@@ -25,6 +25,7 @@ Software developer by day, gamer also by day. At night, I sleep.
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Rust](https://shields.io/badge/-Rust-3776AB?style=flat&logo=rust)
 ![Godot](https://img.shields.io/badge/-Godot%20Engine-478CBF?style=flat&logo=godot-engine&logoColor=white)
+![THREE](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
 ## 💬 Stuff that I plan to work on
 
