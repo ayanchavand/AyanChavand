@@ -1,41 +1,42 @@
-
-
-<!--
-**ayanchavand/AyanChavand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
 
-# Welcome to My GitHub Profile! 👋
-
+# Hey, I'm Ayan 👋  
 Software developer by day, gamer also by day. At night, I sleep.
 
-## 🛠️ Stuff that I am simping over as of now
-
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Rust](https://shields.io/badge/-Rust-3776AB?style=flat&logo=rust)
-![Godot](https://img.shields.io/badge/-Godot%20Engine-478CBF?style=flat&logo=godot-engine&logoColor=white)
-![THREE](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-
-## 💬 Stuff that I plan to work on
-
-- A 2D game from scratch in C++
-- A cross platform digital welllbeing app
-- A clean Spotify client for linux terminal
-- A graph based docs maker webapp
-
-![ayanchavand's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanchavand&theme=react&show_icons=true&hide_border=true&layout=compact)
-
-![ayanchavand's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayanchavand&theme=react&hide_border=true)
-
 </div>
+
+---
+
+## 🔧 Currently Into
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Rust-DEA584?style=flat&logo=rust&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=godot-engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white" />
+</p>
+
+---
+
+## 🧪 Things I'm Working On
+
+- A 2D game from scratch in C++  
+- A cross-platform digital wellbeing app  
+- A clean Spotify terminal client for Linux  
+- A graph-based documentation webapp  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanchavand&theme=react&show_icons=true&hide_border=true&layout=compact" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanchavand&theme=react&hide_border=true" />
+</p>
+
+---
+
+## 📬 Reach Out
+
+Into games, music, or making weird tools for fun? Always down to chat.
