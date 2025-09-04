@@ -35,7 +35,8 @@ and blending **code with creativity** to make experiences people remember.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanchavand&theme=react&hide_border=true" />
 
 ---
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ayanchavand&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 ## 📬 Reach Out
 
 If you’re into **games**, **music**, or **making weird tools just because it’s fun**,  
