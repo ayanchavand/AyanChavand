@@ -30,18 +30,9 @@ and blending **code with creativity** to make experiences people remember.
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanchavand&theme=react&show_icons=true&hide_border=true&layout=compact" />
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanchavand&theme=react&hide_border=true" />
-
----
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ayanchavand&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-## 📬 Reach Out
-
-If you’re into **games**, **music**, or **making weird tools just because it’s fun**,  
-we’ll get along great. Let’s talk.
-
+## **GitHub Statistics**
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayanchavand&theme=gruvbox">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayanchavand&show_icons=true&theme=gruvbox">
+</p>
 </div>
