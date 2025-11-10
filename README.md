@@ -1,38 +1,38 @@
-<div align="center">
-
-# Hey, I'm Ayan 👋  
-Game developer at heart, software engineer by craft.  
-When I’m not coding games, I’m probably playing them.
-
----
-
-## 🎮 What I’m All About
-
-
-<img src="https://img.shields.io/badge/-OpenGL-5586A4?style=flat&logo=opengl&logoColor=white" />
-<img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white" />
-<img src="https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=godot-engine&logoColor=white" />
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white" />
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-
-I specialize in building **interactive worlds**, crafting **tight gameplay systems**,  
-and blending **code with creativity** to make experiences people remember.  
-
----
-
-## 🧪 Things I’m Working On
-
-**• 2D Action Multiplayer Party Platformer** from scratch in C++ & SFML  
-**• Cross-platform digital wellbeing app** for better screen habits  
-**• Spotify terminal client** that feels right at home on Linux  
-**• Graph-based documentation webapp** for structured thinking  
-
----
-
-## **GitHub Statistics**
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayanchavand&theme=gruvbox">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayanchavand&show_icons=true&theme=gruvbox">
+<h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://ayanchavand.me">Ayan Chavand</a></b></samp></h3>
+<p align="center"><br>
+  <samp>
+    「 I make software stuff 」<br>
+  </samp>
 </p>
-</div>
+<details align="center">
+   <summary> <samp>&#9776; Details</samp></summary>
+   <p align="center">
+     <br>
+      <a href="https://github.com/ayanchavand?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
+      <a href="https://github.com/ayanchavand?tab=repositories&language=c" target="_blank"><img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white"></a>
+      <a href="https://github.com/ayanchavand?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
+      <a href="https://github.com/ayanchavand?tab=repositories&language=c%23" target="_blank"><img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C-Sharp&logoColor=white"></a>
+      <a href="https://github.com/ayanchavand?tab=repositories&language=rust" target="_blank"><img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white"></a>
+      <a href="https://github.com/ayanchavand?tab=repositories&language=go" target="_blank"><img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white"></a>
+      <a href="https://github.com/ayanchavand?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"></a>
+      <a href="https://github.com/ayanchavand?tab=repositories&language=kotlin" target="_blank"><img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"></a>
+  <br><br>
+  <samp>
+    <b>Tech Hobbies:</b> Homelabbing • 3D Graphics<br>
+    <b>Outside Tech:</b> Trekking • Tennis<br>
+  </samp>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayanchavand&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"></img><br>
+     <a href="https://github.com/ayanchavand?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
+     <a href="https://github.com/ayanchavand" target="_blank"><img alt="ayanchavand" src="https://badges.pufler.dev/visits/ayanchavand/ayanchavand?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+     <a href="https://github.com/ayanchavand/ayanchavand" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/ayanchavand/ayanchavand?label=profile%20updated&style=flat-square"></a>
+  </samp>
+  </p>
+</details>
+<br>
+<samp>
+  <p align="center">
+    ════ ⋆★⋆ ════<br>
+    From <a href="https://github.com/ayanchavand/ayanchavand">ayanchavand</a>
+  </p>
+</samp>
