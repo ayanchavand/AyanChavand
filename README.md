@@ -1,7 +1,7 @@
 <h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://ayanchavand.me">Ayan Chavand</a></b></samp></h3>
 <p align="center"><br>
   <samp>
-    「 I make software stuff 」<br>
+    「Software Nerd」<br>
   </samp>
   <samp>
     <p align="center">
