@@ -15,8 +15,8 @@
 <samp>
   <p align="center">
     <b>Currently Working On</b><br><br>
-    <b>vib</b><br>
-    A fast terminal UI for browsing files on remote machines you control..<br><br>
+    <b>FiTui</b><br>
+    A fast tui for budgeting and tracking expense<br><br>
     <a href="https://github.com/ayanchavand/vib" target="_blank" rel="nofollow noopener noreferrer">
       <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="vib repository">
     </a>
