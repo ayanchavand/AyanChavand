@@ -1,49 +1,11 @@
-<h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://ayanchavand.me">Ayan Chavand</a></b></samp></h3>
-<p align="center"><br>
-  <samp>
-    「I press buttons and stuff」<br>
-  </samp>
-  <samp>
-    <p align="center">
-  <img src="https://raw.githubusercontent.com/godotengine/godot/master/icon.svg" width="64" /><br>
-  <b>Godot Engine Contributor</b>
-</p>
+# Ayan Chavand
 
-  </samp>
-</p>
-<br>
-<samp>
-  <p align="center">
-    <b>Currently Working On</b><br><br>
-    <b>DudeStop</b><br>
-    A Minimal Chrome extension to stop mindless content consumption<br><br>
-    <a href="https://github.com/ayanchavand/fitui" target="_blank" rel="nofollow noopener noreferrer">
-      <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="vib repository">
-    </a>
-  </p>
-</samp>
+I press buttons and stuff. Godot Engine contributor.
 
-<details align="center">
-   <summary> <samp>&#9776; Details</samp></summary>
-   <p align="center">
-     <br>
-      <a href="https://github.com/ayanchavand?tab=repositories&language=c" target="_blank"><img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white"></a>
-      <a href="https://github.com/ayanchavand?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
-      <a href="https://github.com/ayanchavand?tab=repositories&language=c%23" target="_blank"><img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C-Sharp&logoColor=white"></a>
-      <a href="https://github.com/ayanchavand?tab=repositories&language=rust" target="_blank"><img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white"></a>
-      <a href="https://github.com/ayanchavand?tab=repositories&language=go" target="_blank"><img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white"></a>
-      <a href="https://github.com/ayanchavand?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"></a>
-      <a href="https://github.com/ayanchavand?tab=repositories&language=kotlin" target="_blank"><img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"></a>
-  <br><br>
-  <br>
-     <a href="https://github.com/ayanchavand" target="_blank"><img alt="ayanchavand" src="https://badges.pufler.dev/visits/ayanchavand/ayanchavand?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-     <a href="https://github.com/ayanchavand/ayanchavand" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/ayanchavand/ayanchavand?label=profile%20updated&style=flat-square"></a>
-  </samp>
-  </p>
-</details>
-<br>
-<samp>
-  <p align="center">
-    ════ ⋆★⋆ ════<br>
-  </p>
-</samp>
+[ayanchavand.me](https://ayanchavand.me)
+
+---
+
+**Currently building:** [DRY Engine](https://github.com/ayanchavand/Dry-Engine) — a cross-platform 2D game engine, written in C.
+
+**Stack:** C, C++, C#, Rust, Go, JavaScript, Kotlin
